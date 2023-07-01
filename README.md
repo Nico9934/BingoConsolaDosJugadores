@@ -1,11 +1,8 @@
-# Bingo de Consola para DosJugadores
-Un bingo para consola hecho con el lenguaje C#. Proyecto realizado para practicar manejo de arrays bidimensionales, unidimensionales, métodos y distintos bucles. 
-![Caratula del proyecto de bingo](/bingo.png)
+![Caratula del proyecto de bingo](/bingoDosJugadores/Bingo.png)
 
 
-# Ecommerce Congelados ⚛️
-
-
+# 🎮 Bingo de Consola para DosJugadores 🎮
+Un bingo para consola hecho con el lenguaje C#. Proyecto realizado para practicar manejo de arrays bidimensionales, unidimensionales, métodos y distintos tipos bucles. 
 
 ####  Project by: Nico Rolon ©️
 
@@ -19,7 +16,8 @@ El proyecto de consola está creado con C#.
 
 ##  Features especiales
 
-- Menu de opciones matematicas
-- Posibilidad de volver a utilizar el programa
-- Validacion de menú
+- Posibilidad de jugar de a dos jugadores.
+- Ingreso de nombres de los jugadores.
+- Marcador de aciertos hasta el momento.
+- Lista que muestra los numeros que ya salieron.
 
